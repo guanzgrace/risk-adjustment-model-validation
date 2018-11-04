@@ -63,7 +63,12 @@ Q1 indicates that a company has lost a lot of money, and Q5 indicates that a com
 |       | L15     |         | 3.938e-5 | 0.000   | 0.147   | 0.883   |               | -0.0003  | 0.000   | -1.234  | 0.218   |
 
 * Dependent Variable: T16
+
 ** Dependent Variable: T15
+
 ^ Dependent Variable: EM16
+
 ! Significant at alpha = 0.05
+
+Columns 3-7 represent the model fitted with data from the individual marketplace; Columns 8-12 represent the model fitted with data from the small group marketplace.
 
